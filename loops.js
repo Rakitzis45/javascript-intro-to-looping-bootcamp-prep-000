@@ -1,3 +1,4 @@
-for (let num = 6; num >= 1; num-=2){
-  console.log(num)
+let gifts = ["Car", "Pc", "House"];
+for (let i = 0, i < 3, i++){
+  console.log(`I bought a ${gifts[i]}!`)
 }
