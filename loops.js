@@ -1,7 +1,6 @@
-let gifts = ["Car", "PC", "House"];
-function iBuy(gifts){
-  for(let i = 0; i < gifts.length; i++){
-    console.log(`I bought a ${gifts[i]}!`);
+
+function forLoop(){
+  for(let i =0; i < 25; i++){
+    console.log(`I am ${i} strange loops.`)
   }
 }
-iBuy(gifts);
