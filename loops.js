@@ -4,3 +4,4 @@ function iBuy(gifts){
     console.log(`I bought a ${gifts[i]}!`);
   }
 }
+iBuy(gifts);
