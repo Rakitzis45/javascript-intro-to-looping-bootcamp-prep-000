@@ -1,3 +1,3 @@
-for (let num = 1; num < 6; num++){
+for (let num = 6; num < 1; num--){
   console.log(num)
 }
